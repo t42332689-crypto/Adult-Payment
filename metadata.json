@@ -1,0 +1,5 @@
+{
+  "name": "Secure Card Payment UI",
+  "description": "A high-fidelity, responsive payment card entry form built with React and Tailwind CSS, featuring real-time validation and a clean, professional aesthetic.",
+  "requestFramePermissions": []
+}
